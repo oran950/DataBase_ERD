@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-31T06:46:41.842Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="E_whZf0B6ysBHJWtp3CS" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-31T06:56:48.536Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ImK8b3nqg87Yj5tVCSn-" version="21.1.2" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="2693" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -376,7 +376,7 @@
         <mxCell id="ih9Ujqy8G6up0V0xCDx5-29" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-63.5" y="800" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ih9Ujqy8G6up0V0xCDx5-30" value="many to many becouse we want to consider the history" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ih9Ujqy8G6up0V0xCDx5-30" value="many to many becouse we want to consider the history, in older knessets" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="286.5" y="780" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ih9Ujqy8G6up0V0xCDx5-31" value="MK" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
@@ -442,6 +442,9 @@
         </mxCell>
         <mxCell id="ih9Ujqy8G6up0V0xCDx5-46" value="role" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-47" y="1420" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ih9Ujqy8G6up0V0xCDx5-47" value="1 to many&amp;nbsp;&lt;br&gt;i&#39;ts when we need parties in the current knesset" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="398.5" y="780" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
