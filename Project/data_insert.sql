@@ -93,8 +93,8 @@ VALUES (1, 'Amy Johnson', 7),
  (4, 'Jacob Wilson', 8),
        (5, 'Lily Brown', 4), 
        (6, 'Matthew Taylor', 4),
-       (7, 'Olivia Clark', 6), (8, 'Ryan Lee', 6),
-       (9, 'Sophia Anderson', 4), (10, 'William Martinez', 7);
+       (7, 'Olivia Clark', 6), (8, 'Ryan Lee', 4),
+       (9, 'Sophia Anderson', 3), (10, 'William Martinez', 7);
 
 -- Data for candidates_personalities table
 INSERT INTO candidates_personalities (candidate_id, personality_id)
@@ -111,9 +111,9 @@ VALUES (1, 1, 3, 4), (1, 3, 3, 4),(1, 2, 3, 4),(1, 5, 3, 4),
        (5, 5, 3, 4), (5, 4, 3, 4), (5, 3, 3, 4),
        (6, 1, 2, 3),  (6, 2, 2, 3),
        (7, 5, 4, 5), (7, 6, 4, 5),(7, 8, 4, 5),
-       (8, 8, 3, 4), (8, 1, 3, 4), (8, 2, 3, 4),
-       (9, 3, 2, 3),   (9, 8, 2, 3),  (9,6, 2, 3),
-       (10, 3, 4, 5),(10, 8, 4, 5),(10, 6, 4, 5);
+       (8, 8, 3, 4), (8, 3, 3, 4), (8, 6, 3, 4),
+       (9, 8, 2, 3), (9, 3, 2, 3),  (9, 6, 2, 3),
+       (10, 5, 4, 5),(10, 1, 4, 5),(10, 6, 4, 5),(10, 2, 4, 5),(10,3, 4, 5);
 
 -- Data for status table
 INSERT INTO status (status_id, status_name)
